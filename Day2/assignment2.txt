@@ -1,1 +1,45 @@
+Day 2:Height and Weight Convertor
 
+▪ Write a program and create two static methods
+▪ float heightConvertor(int heightFeetPart, int heightInchPart)
+▪ float weightConvertor(int weight)
+▪ You can call the these method in main method with given inputs.
+▪ At Few places, heights are considered in feet and inches and weight in kg,
+we need to solve this problem and get the height in cm and weight in
+pounds.
+▪ Define the feet and inch part of the height and weight in the kg. Handle the
+decimal values for results, input will always will be integer.
+▪ Hint: One foot is 12 inch and 1inch is 2.54cm. One kg is 2.2 pounds
+
+Nest4Code
+
+Day 2: Height and Weight Convertor
+
+Sample Input/Output 1:
+Input:
+heightConvertor(5, 11)
+weightConvertor(60)
+
+Output:
+Height in cm 180.34
+Weight in pounds: 132
+
+Nest4Code
+
+Sample Input/Output 2:
+Sample Input/Output 1:
+Input:
+heightConvertor(5, 0)
+weightConvertor(101)
+Output:
+Height in cm 152.4
+Weight in pounds: 222.2
+
+Day 2:Topic
+
+Topic for this assignment is static method and data
+conversion.
+
+Please refer to the day2 session if you have any doubts.
+
+https://youtu.be/QqnnPL6RsFY
