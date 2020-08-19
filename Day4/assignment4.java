@@ -3,6 +3,7 @@ public class assignment4 {
 	public static void main(String[] args) {
 		int[] num= {2,4,6,8} ;
 		int count_even1=0,count_odd1=0;
+/** Test case1**/
 		for (int i=0;i<num.length;i++) {
 			if(num[i]%2==0)
 			{
@@ -13,6 +14,7 @@ public class assignment4 {
 				count_odd1++;
 			}
 		}
+/** Test case 2**/
 		int[] num2= {2,3,5,6,7,8,9,0};
 		int count_even2=0,count_odd2=0;
 		for (int j=0;j< num2.length;j++)
@@ -26,6 +28,7 @@ public class assignment4 {
 				count_odd2++;
 			}
 		}
+/** Test case3**/
 		int[] num3= {-2,3,4,5,6,9,0,0,0,0,0,2};
 		int count_even3=0,count_odd3=0;
 		for (int k=0;k< num3.length;k++)
