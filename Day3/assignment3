@@ -1,1 +1,45 @@
+Day 3: Solve the Printing Mistakes
 
+▪ Due to the printing mistakes, few character in words are exchanged
+and we need to fix with the help of program.
+▪ Write a program which takes two string as input and exchange the
+first two character of one string with last two character of the other
+string. Same thing needs to be done for both the string.
+▪ Use of loop is not allowed.
+▪ You can assume the length of both the input string will be at least 4.
+▪ Output strings should be stored in variable before printing.
+
+Nest4Code
+
+Day 3: Solve the Printing Mistakes
+
+▪ Topic for this question is String
+▪ https://youtu.be/ZDAdYxW-JwM
+
+Nest4Code
+
+Day 3: Solve the Printing Mistakes
+
+Sample Input/Output 1:
+
+Input:
+String 1: abcdefqwa
+String 2: gfdkghye
+Output:
+String 1: yecdefqgf
+String 2: wadkghab
+
+Here ab is exchanged with ye
+and wa is exchanged with gf.
+
+Nest4Code
+
+Sample Input/Output 2:
+Input:
+String 1: abcd
+String 2: efgh
+Output:
+String 1: ghef
+String 2: cdab
+
+Happy Coding
