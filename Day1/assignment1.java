@@ -1,3 +1,4 @@
+/** Assignment1 **/
 package day1;
 
 import java.util.Scanner;
