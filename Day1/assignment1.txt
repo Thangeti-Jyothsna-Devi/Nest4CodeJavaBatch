@@ -1,1 +1,36 @@
+Day 1:Calculate Restaurant Bills
 
+▪ Write a program to consider the price of the 3 product for the
+restaurant bill and the tax percentage and calculate final amount.
+▪ Assume that the price of the all the 3 product and the tax percentage
+will also be positive.
+▪ Handle the decimal values
+▪ Tax amount = !"# $%&'%(!")%
+
+*++
+
+! "#$%&'( "#)'*
+
+Nest4Code
+
+Day 1:Calculate Restaurant Bills
+
+Sample Input/Output 1:
+Input:
+price 1: 70
+price 2: 20
+price 3: 10
+tax %: 18
+Output:
+Final Amount: 118.0
+
+Nest4Code
+
+Sample Input/Output 2:
+
+Price 1: 15.5
+Price 2: 4.5
+Price 3: 30
+tax %: 5
+Output:
+Final Amount : 52.5
