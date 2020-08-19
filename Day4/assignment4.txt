@@ -1,1 +1,19 @@
+Day 4: Count odd and even digits
+▪ Write a program which takes one number as inputand print the number of odd and even digits in thenumbers
+.▪ Number can be positive or negative both.
+▪ You can assume that user will always enter numberas input.
 
+Day 4: Count odd and even digits
+Sample Input/Output 1:
+Input:Number: 2468Output:
+Odd digit: 0
+Even digit: 4
+Sample Input/Output 2:
+Input:Number:23567890Output:
+Odd digit: 4
+Even digit: 4▪
+Nest4CodeSample Input/Output 3:
+Input:Number: -234569000002Output:
+Odd digit: 3
+Even digit: 9
+Count odd and even digits▪ Topic for this question is Conditional Programming and Loops.▪ Please go through the recorded Session for ConditionalProgramming and Loops.▪ https://youtu.be/ZDAdYxW-JwM▪ https://youtu.be/-1hjn3IwwQsNest4CodePage 4 of 5
