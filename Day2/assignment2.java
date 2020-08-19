@@ -1,3 +1,4 @@
+/** Assignment 2 **/
 package day2;
 
 public class assignment2 {
