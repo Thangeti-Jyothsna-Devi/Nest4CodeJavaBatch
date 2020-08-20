@@ -1,4 +1,4 @@
-/** Assignment5 **/
+/** Assignment 5 **/
 package day5;
 import java.util.Scanner;
 public class assignment5 {
