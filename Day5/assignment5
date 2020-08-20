@@ -1,0 +1,52 @@
+Day 5: Print the half diamond pattern
+
+▪ Write a program which takes number as input and
+print the half diamond pattern split done vertically.
+▪ Refer I/O for sample cases.
+
+Nest4Code
+
+Day 5: Print the half diamond pattern
+
+Sample Input/Output 1:
+Input:
+Number 1: 5
+Output:
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+▪
+Nest4Code
+
+Sample Input/Output 2:
+Input:
+Number 1: 7
+Output:
+*
+**
+***
+****
+*****
+******
+*******
+******
+*****
+****
+***
+**
+*
+
+Day 5: Print the half diamond pattern
+
+▪ Topic for this question is Loops.
+▪ Please go through the recorded Session first for day 4 and 5.
+▪ Loops:
+▪ https://youtu.be/vKvgeEyYeUA
+▪ https://youtu.be/-1hjn3IwwQs
