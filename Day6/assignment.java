@@ -1,3 +1,4 @@
+// Second part
 package day6;
 
 public class assignment {
