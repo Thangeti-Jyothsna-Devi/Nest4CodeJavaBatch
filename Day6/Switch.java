@@ -1,5 +1,5 @@
 //Assignmet6 
-// First Program/Main Program
+// First Part
 package day6;
 public class Switch
 {
