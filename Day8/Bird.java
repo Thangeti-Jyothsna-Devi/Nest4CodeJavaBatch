@@ -12,6 +12,7 @@ public abstract class Bird {
 	{
 		System.out.println("have wings");
 	}
+	//For Method overriding in the subclasses
 	public void eat()
 	{
 		System.out.println("Eat insects....");
